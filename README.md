@@ -6,10 +6,12 @@
 
 </div>
 
+
 <!-- Introduction -->
 
 <h5 align="center">Hi there! 👋 I'm a student with a passion for software development. I've been focusing on various areas including web development, network programming, cyber security, artificial intelligence, and reverse engineering. These fields truly fascinate me, and I'm continually looking for ways to expand my knowledge and skills in each area.</h5>
-<div style="height: 50px;"></div> 
+
+##
 
 <!-- Stats Markdown -->
 
