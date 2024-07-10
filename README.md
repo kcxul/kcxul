@@ -1,16 +1,21 @@
+<!-- Name Header -->
+
 <div align="center">
 
-# [kcxul](https://kcxul.github.io)
+## [kcxul](https://kcxul.github.io)
 
 </div>
 
-<div style="height: 50px;"></div> 
+<!-- Introduction -->
+
 <h5 align="center">Hi there! 👋 I'm a student with a passion for software development. I've been focusing on various areas including web development, network programming, cyber security, artificial intelligence, and reverse engineering. These fields truly fascinate me, and I'm continually looking for ways to expand my knowledge and skills in each area.</h5>
 <div style="height: 50px;"></div> 
 
-<h1></h1>
+<!-- Stats Markdown -->
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center;">
+
+<!-- GitHub Stats -->
 
 <picture>
   <source
@@ -23,6 +28,8 @@
   />
   <img alt="GitHub Stats for kcxul" src="https://github-readme-stats-9eda.vercel.app/api?username=kcxul&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=1d1d1d&text_color=1d1d1d">
 </picture>
+
+<!-- Most Used Languages -->
 
 <picture>
   <source
