@@ -6,13 +6,6 @@
 
 </div>
 
-
-<!-- Introduction -->
-
-<h4 align="center">Hi there! I'm a student with a passion for software development.</h4>
-
-##
-
 <!-- Stats Markdown -->
 
 <div align="center" style="display: flex; justify-content: center;">
