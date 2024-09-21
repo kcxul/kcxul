@@ -5,7 +5,7 @@ I'm Vin Adrong - I'm currently a student living in the United States. I am alway
 
 ---
 ### 🛠 Projects
-- **[Repos](https://github.com/kcxul?tab=repositories):** public repositories published on my GitHub.
+- **[Repos](https://github.com/kcxul?tab=repositories):** Public repositories published on my GitHub.
 ---
 ### 📫 Contacts
 - **[GitHub](https://github.com/kcxul)**
@@ -14,6 +14,8 @@ I'm Vin Adrong - I'm currently a student living in the United States. I am alway
 ---
 
 <!-- GitHub Stats -->
+<details>
+  <summary>Github Stats</summary>
 
 <div align="center" style="display: flex; justify-content: center;">
 
@@ -46,3 +48,4 @@ I'm Vin Adrong - I'm currently a student living in the United States. I am alway
 </picture>
 
 </div>
+</details>
