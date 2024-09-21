@@ -2,7 +2,7 @@
 
 **`Student/Developer`**
 
-I'm Vin Adrong - I'm a college student 👨‍🎓 currently living in the United States. I'm always looking for ways to improve my software engineering skills through various languages and toolsets ⚒️. I'm currently working on personal software projects to deepen my knowledge and experience 🧠.
+I'm Vin Adrong - I'm a college student currently living in the United States. I'm always looking for ways to improve my software engineering skills through various languages and toolsets. I'm currently working on personal software projects to deepen my knowledge and experience.
 
 #
 ### 🛠 Projects
