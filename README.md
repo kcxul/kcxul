@@ -5,12 +5,12 @@
 I'm Vin Adrong - I'm a college student currently living in the United States. I'm always looking for ways to improve my software engineering skills through various languages and toolsets. I'm currently working on personal software projects to deepen my knowledge and experience.
 
 #
-### 🛠 Projects
+### 🛠 Projects & Contributions
 - **[PartyPulse](https://github.com/kcxul/PartyPulse):** A simpler way to find, socialize, and party up with other gamers.
 - **[Static Web App](https://github.com/kcxul/Static-Web-App):** A static web app design catered to photography.
 - **[Repos](https://github.com/kcxul?tab=repositories):** Public repositories published on my GitHub.
 #
-### 📫 Contacts
+### 📫 Contacts & Info
 - **[GitHub](https://github.com/kcxul)**
 - **[Linkedin](https://linkedin.com/in/vinadrong)**
 - **[Portfolio](https://kcxul.github.io/)**
