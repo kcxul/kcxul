@@ -1,16 +1,23 @@
-<!-- Name Header -->
+# Hey There! 👋
 
-<div align="center">
 
-## [kcxul](https://kcxul.github.io)
+I'm Vin Adrong - I'm currently a student living in the United States. I am always looking for ways to improve as a software engineer. Whether that be learning various new languages or toolsets. In the mean time, I'm working on random private projects.
 
-</div>
+---
+### 🛠 Projects
+- **[Repos](https://github.com/kcxul?tab=repositories):** public repositories published on my GitHub.
+---
+### 📫 Contacts
+- **[GitHub](https://github.com/kcxul)**
+- **[Linkedin](linkedin.com/in/vinadrong)**
+- **[Portfolio](https://kcxul.github.io/)** (will be updated soon)
+---
 
-<!-- Stats Markdown -->
+<!-- GitHub Stats -->
 
 <div align="center" style="display: flex; justify-content: center;">
 
-<!-- GitHub Stats -->
+
 
 <picture>
   <source
