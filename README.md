@@ -9,7 +9,7 @@ I'm Vin Adrong - I'm currently a student living in the United States. I am alway
 ---
 ### 📫 Contacts
 - **[GitHub](https://github.com/kcxul)**
-- **[Linkedin](linkedin.com/in/vinadrong)**
+- **[Linkedin](https://linkedin.com/in/vinadrong)**
 - **[Portfolio](https://kcxul.github.io/)** (will be updated soon)
 ---
 
