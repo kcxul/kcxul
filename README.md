@@ -6,8 +6,6 @@ I'm Vin Adrong - I'm a college student currently living in the United States. I'
 
 #
 ### 🛠 Projects & Contributions
-- **[PartyPulse](https://github.com/kcxul/PartyPulse):** A simpler way to find, socialize, and party up with other gamers.
-- **[Static Web App](https://github.com/kcxul/Static-Web-App):** A static web app design catered to photography.
 - **[Repos](https://github.com/kcxul?tab=repositories):** Public repositories published on my GitHub.
 #
 ### 📫 Contacts & Info
