@@ -2,8 +2,7 @@
 
 **`Student/Developer`**
 
-I'm Vin Adrong - I'm a college student currently living in the United States. I'm always looking for ways to improve my software engineering skills through various languages and toolsets. I'm currently working on personal software projects to deepen my knowledge and experience.
-
+I'm Vin Adrong - I'm a student currently living in the United States. I am intrested in software engineering and full stack development.
 #
 ### 🛠 Projects & Contributions
 - **[Repos](https://github.com/kcxul?tab=repositories):** Public repositories published on my GitHub.
