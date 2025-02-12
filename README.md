@@ -2,7 +2,7 @@
 
 **`Student/Developer`**
 
-I'm Vin Adrong - I'm a student currently living in the United States. I am intrested in software engineering and full stack development.
+I'm Vin Adrong - I'm a student currently living in the United States. I am interested in software engineering and full stack development.
 #
 ### 🛠 Projects & Contributions
 - **[Repos](https://github.com/kcxul?tab=repositories):** Public repositories published on my GitHub.
