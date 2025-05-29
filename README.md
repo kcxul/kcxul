@@ -1,9 +1,9 @@
-# Hey There! 👋
+## Hey There! 👋
 
-**`Student/Developer`**
+**`Developer`**
 
-❤️ About Me
-- I'm *Vin* - a student currently living in the United States. I am interested in software engineering, full stack development, and cybersecurity.
+### ❤️ About Me
+- I am interested in software engineering, full stack development, and cybersecurity. 👨‍💻
 - I enjoy music production. 🎹
 - I enjoy photogrpahy. 📸
 - I enjoy trading. 📈
