@@ -2,16 +2,19 @@
 
 **`Student/Developer`**
 
-I'm Vin Adrong - I'm a student currently living in the United States. I am interested in software engineering and full stack development.
-#
+❤️ About Me
+- I'm *Vin* - a student currently living in the United States. I am interested in software engineering, full stack development, and cybersecurity.
+- I enjoy music production. 🎹
+- I enjoy photogrpahy. 📸
+- I enjoy trading. 📈
+
 ### 🛠 Projects & Contributions
-- **[Repos](https://github.com/kcxul?tab=repositories):** Public repositories published on my GitHub.
-#
+- **[Repos](https://github.com/kcxul?tab=repositories)**
+
 ### 📫 Contacts & Info
 - **[GitHub](https://github.com/kcxul)**
 - **[Linkedin](https://linkedin.com/in/vinadrong)**
 - **[Portfolio](https://kcxul.github.io/)**
-#
 
 <!-- GitHub Stats -->
 <details>
