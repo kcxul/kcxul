@@ -3,10 +3,9 @@
 **`Developer`**
 
 ### ❤️ About Me
-- I am interested in software engineering, full stack development, and cybersecurity. 👨‍💻
-- I enjoy music production. 🎹
-- I enjoy photogrpahy. 📸
-- I enjoy trading. 📈
+- I am **Vin**, interested in software development and cybersecurity. 👨‍💻
+- I enjoy cooking. 🍽️
+- I enjoy photography. 📸
 
 ### 🛠 Projects & Contributions
 - **[Repos](https://github.com/kcxul?tab=repositories)**
